@@ -6,3 +6,4 @@ supported templates so far:
 webpack
 electron
 electron-webpack based on electron-webpack-quick-start
+electron-react-webpack based on electron-react-webpack-boilerplate
